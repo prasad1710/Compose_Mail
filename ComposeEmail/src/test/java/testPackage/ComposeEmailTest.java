@@ -48,5 +48,4 @@ public class ComposeEmailTest extends BaseClass {
 	 @AfterClass public void afterClass() {
 		driver.quit(); }
 
-
 }
