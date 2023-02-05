@@ -36,6 +36,33 @@ public class ComposeEmailTest extends BaseClass {
 	public void sendBodyCredentials() {
     	ValidateCompose compose= new ValidateCompose(driver);
 		compose.sendBodyCredentials();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 	@Test(priority=5)
 	public void sendSubjectCredentials() {
@@ -53,6 +80,8 @@ public class ComposeEmailTest extends BaseClass {
 
 
 		//driver.quit(); }
+		 
+		 
 
 
 }
